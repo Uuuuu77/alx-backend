@@ -1,0 +1,3 @@
+# Pagination
+
+Pagination is a method used to split large datasets into smaller, more manageable sections, called pages. This technique improves data handling and user experience by loading data in chunks, making navigation easier and more efficient. Common pagination methods include simple pagination using `page` and `page_size` parameters, hypermedia pagination that provides navigational metadata, and deletion-resilient pagination which maintains consistency even when items are deleted. Proper implementation of pagination is crucial for optimizing performance and ensuring a seamless user experience in applications dealing with large amounts of data.
